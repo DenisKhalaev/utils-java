@@ -1,0 +1,16 @@
+Hello.
+Please send your contact (e-mail). 
+I'm starting to learn jibx.
+I'm trying to deal with jibx on Your project (https://github.com/LoneRanger66/JibxDemo).
+I am having an error:
+Unable to access binding information for class Customer
+Make sure the binding has been compiled
+java.lang.NoSuchFieldException: JiBX_bindingList
+	at java.lang.Class.getDeclaredField(Class.java:2070)
+	at org.jibx.runtime.BindingDirectory.getBindingList(BindingDirectory.java:68)
+	at org.jibx.runtime.BindingDirectory.getFactory(BindingDirectory.java:211)
+	at XMLBindingTest.main(XMLBindingTest.java:13)
+  
+  Sincerely 
+  Denis
+  denis.khalaev@gmail.com
